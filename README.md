@@ -193,7 +193,7 @@ Phase 4 🔥
 
 📷 Screenshots
 
-Add screenshots of:
+(https://github.com/vishalyadav351/StudySync-AI/blob/main/StudySync.pdf)
 
 1. Login Page
 2. Signup Page
